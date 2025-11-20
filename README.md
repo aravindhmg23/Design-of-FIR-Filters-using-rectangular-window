@@ -46,6 +46,7 @@ title("Frequency Response (dB) of FIR Low Pass Filter");
 
 # OUTPUT
 <img width="1697" height="1101" alt="image" src="https://github.com/user-attachments/assets/5ce1ec8a-1779-4165-b7c0-9e03a6812635" />
+<img width="1714" height="1101" alt="image" src="https://github.com/user-attachments/assets/745a78e1-3f8e-4e7a-8a50-6d86179116ec" />
 
 
 
